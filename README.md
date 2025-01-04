@@ -15,7 +15,7 @@ RideNews es una plataforma web creada con PHP (Laravel), JavaScript, Tailwind CS
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/tu-usuario/RideNews.git
+    git clone https://github.com/MiguelSJimenezV/RideNewsProject.git
     ```
 
 2. **Instala las dependencias de PHP**:
