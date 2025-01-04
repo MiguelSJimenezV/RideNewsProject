@@ -113,3 +113,7 @@ php artisan test
 ## Contribuciones
 
 Si deseas contribuir al proyecto, por favor, abre un "Pull Request" con los cambios que consideres adecuados. También puedes abrir problemas (issues) para reportar errores o sugerir mejoras.
+
+## Autor
+Miguel S. Jiménez V.
+2024
